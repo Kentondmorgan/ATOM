@@ -17,8 +17,8 @@ irm http://tinyurl.com/run-atom | iex
 ```
 
 **Direct download links**
-- [Latest build](https://github.com/SkylerWallace/ATOM/archive/refs/heads/main.zip)
-- [Latest release](https://github.com/SkylerWallace/ATOM/releases/latest/download/ATOM.zip)
+- [Latest build](https://github.com/Kentondmorgan/ATOM/archive/refs/heads/main.zip)
+- [Latest release](https://github.com/Kentondmorgan/ATOM/releases/latest/download/ATOM.zip)
 
 > [!IMPORTANT]
 > **Double-click** plugins to launch.
